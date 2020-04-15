@@ -1,0 +1,2 @@
+  git config --global user.email "rpada.designs@gmail.com"
+  git config --global user.name "Roland"
